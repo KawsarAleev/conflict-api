@@ -1,0 +1,17 @@
+{
+  "department": "Computer Science & Engineering",
+  "slug": "cse",
+  "lastUpdated": "2026-04-12",
+  "courses": [
+    { "id": 1, "code": "CSE 1115", "title": "Object Oriented Programming", "shortName": "OOP", "day": "Day 6", "slot": "T2" },
+    { "id": 2, "code": "CSE 2213", "title": "Discrete Mathematics", "shortName": "DM", "day": "Day 3", "slot": "T2" },
+    { "id": 3, "code": "CSE 2215", "title": "Data Structure and Algorithms I", "shortName": "DSA 1", "day": "Day 4", "slot": "T2" },
+    { "id": 4, "code": "CSE 3521", "title": "Database Management Systems", "shortName": "DBMS", "day": "Day 2", "slot": "T1" },
+    { "id": 5, "code": "CSE 3811", "title": "Artificial Intelligence", "shortName": "AI", "day": "Day 3", "slot": "T1" },
+    { "id": 6, "code": "CSE 4509", "title": "Operating Systems", "shortName": "OS", "day": "Day 1", "slot": "T1" },
+    { "id": 7, "code": "CSE 1116", "title": "OOP Lab", "shortName": "OOP Lab", "day": "N/A", "slot": "N/A" },
+    { "id": 8, "code": "CSE 4165", "title": "Web Programming", "shortName": "Web", "day": "Day 7", "slot": "T1" },
+    { "id": 9, "code": "CSE 3711", "title": "Computer Networks", "shortName": "CN", "day": "Day 4", "slot": "T3" },
+    { "id": 10, "code": "CSE 4611", "title": "Compiler Design", "shortName": "Compiler", "day": "Day 4", "slot": "T1" }
+  ]
+}

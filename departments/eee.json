@@ -1,0 +1,17 @@
+{
+  "department": "Electrical & Electronic Engineering",
+  "slug": "eee",
+  "lastUpdated": "2026-04-12",
+  "courses": [
+    { "id": 1, "code": "EEE 2113", "title": "Electrical Circuits I", "shortName": "EC 1", "day": "Day 1", "slot": "T1" },
+    { "id": 2, "code": "EEE 2123", "title": "Electronics I", "shortName": "Elec 1", "day": "Day 2", "slot": "T2" },
+    { "id": 3, "code": "EEE 3125", "title": "Digital Electronics", "shortName": "Digi Elec", "day": "Day 3", "slot": "T1" },
+    { "id": 4, "code": "EEE 3217", "title": "Signals and Systems", "shortName": "Signals", "day": "Day 4", "slot": "T3" },
+    { "id": 5, "code": "EEE 3311", "title": "Electrical Machines", "shortName": "Machines", "day": "Day 5", "slot": "T2" },
+    { "id": 6, "code": "EEE 4411", "title": "Power System I", "shortName": "Power 1", "day": "Day 6", "slot": "T1" },
+    { "id": 7, "code": "EEE 2114", "title": "Circuits I Lab", "shortName": "EC 1 Lab", "day": "N/A", "slot": "N/A" },
+    { "id": 8, "code": "EEE 4521", "title": "Control Systems", "shortName": "Control", "day": "Day 7", "slot": "T2" },
+    { "id": 9, "code": "EEE 3121", "title": "Electromagnetic Fields", "shortName": "EMF", "day": "Day 2", "slot": "T3" },
+    { "id": 10, "code": "EEE 4423", "title": "Switchgear & Protection", "shortName": "SGP", "day": "Day 1", "slot": "T3" }
+  ]
+}
