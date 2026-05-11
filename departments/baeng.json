@@ -1,6 +1,6 @@
 {
   "department": "Department of English",
-  "slug": "ba-eng",
+  "slug": "baeng",
   "lastUpdated": "2026-04-12",
   "courses": [
     { "id": 1, "code": "ENG 1011", "title": "English I", "shortName": "ENG 1", "day": "Day 1", "slot": "T1" },
