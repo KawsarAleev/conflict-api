@@ -2,16 +2,5 @@
   "department": "Business Administration",
   "slug": "bba",
   "lastUpdated": "2026-04-12",
-  "courses": [
-    { "id": 1, "code": "BUS 1101", "title": "Introduction to Business", "shortName": "Intro Bus", "day": "Day 1", "slot": "T2" },
-    { "id": 2, "code": "ACT 2111", "title": "Financial Accounting", "shortName": "Fin Act", "day": "Day 2", "slot": "T1" },
-    { "id": 3, "code": "ECO 1201", "title": "Microeconomics", "shortName": "Micro", "day": "Day 3", "slot": "T3" },
-    { "id": 4, "code": "MGT 2301", "title": "Principles of Management", "shortName": "MGT", "day": "Day 4", "slot": "T2" },
-    { "id": 5, "code": "MKT 2401", "title": "Principles of Marketing", "shortName": "MKT", "day": "Day 5", "slot": "T1" },
-    { "id": 6, "code": "FIN 3501", "title": "Corporate Finance", "shortName": "Finance", "day": "Day 6", "slot": "T3" },
-    { "id": 7, "code": "BUS 3105", "title": "Business Statistics", "shortName": "B.Stats", "day": "Day 7", "slot": "T2" },
-    { "id": 8, "code": "HRM 3601", "title": "Human Resource Management", "shortName": "HRM", "day": "Day 1", "slot": "T1" },
-    { "id": 9, "code": "BUS 4101", "title": "Business Law", "shortName": "Law", "day": "Day 3", "slot": "T2" },
-    { "id": 10, "code": "INT 4701", "title": "International Business", "shortName": "Int Bus", "day": "Day 5", "slot": "T3" }
-  ]
+  "courses": []
 }

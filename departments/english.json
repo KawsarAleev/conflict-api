@@ -2,16 +2,5 @@
   "department": "Department of English",
   "slug": "english",
   "lastUpdated": "2026-04-12",
-  "courses": [
-    { "id": 1, "code": "ENG 1011", "title": "English I", "shortName": "ENG 1", "day": "Day 1", "slot": "T1" },
-    { "id": 2, "code": "ENG 1013", "title": "English II", "shortName": "ENG 2", "day": "Day 2", "slot": "T2" },
-    { "id": 3, "code": "ENG 2115", "title": "Introduction to Literature", "shortName": "Lit Intro", "day": "Day 3", "slot": "T1" },
-    { "id": 4, "code": "ENG 2217", "title": "History of English Language", "shortName": "Hist Eng", "day": "Day 4", "slot": "T3" },
-    { "id": 5, "code": "ENG 3121", "title": "Romantic Poetry", "shortName": "Rom Poetry", "day": "Day 5", "slot": "T2" },
-    { "id": 6, "code": "ENG 3223", "title": "Shakespeare", "shortName": "Shakes", "day": "Day 6", "slot": "T1" },
-    { "id": 7, "code": "ENG 3325", "title": "Modern Drama", "shortName": "Drama", "day": "Day 7", "slot": "T2" },
-    { "id": 8, "code": "ENG 4131", "title": "Literary Criticism", "shortName": "Criticism", "day": "Day 1", "slot": "T3" },
-    { "id": 9, "code": "ENG 4233", "title": "Post-Colonial Literature", "shortName": "Post-Col", "day": "Day 2", "slot": "T1" },
-    { "id": 10, "code": "ENG 4335", "title": "American Literature", "shortName": "Am Lit", "day": "Day 4", "slot": "T2" }
-  ]
+  "courses": []
 }
