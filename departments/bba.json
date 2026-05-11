@@ -2,5 +2,9 @@
   "department": "Business Administration",
   "slug": "bba",
   "lastUpdated": "2026-04-12",
-  "courses": []
+  "courses": [
+    { "id": 1, "code": "ENG 1011", "title": "English I", "shortName": "Eng I", "day": "Day 1", "slot": "T1" },
+    { "id": 2, "code": "BDS 1201", "title": "History of the Emergence of BDS", "shortName": "History", "day": "Day 6", "slot": "T1" }
+  ]
+  
 }
